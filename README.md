@@ -1,4 +1,4 @@
-👋 Olá, eu me chamo Letícia. Sou formada em Tecnologia e Sistemas Para Internet e Professora de Infomática à 7 anos. Com esse perfil quero apresentar minhas habilidades em Desenvolvimento Web para uma oportunidade no mercado de trabalho.
+👋 Olá, eu me chamo Letícia. Sou formada em Tecnologia e Sistemas Para Internet e Professora de Infomática à 7 anos. Com esse perfil quero apresentar minhas habilidades em Desenvolvimento Front-end para uma oportunidade no mercado de trabalho.
 
 Aqui estão algumas informações sobre mim.
 
