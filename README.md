@@ -6,4 +6,6 @@ Aqui estão algumas informações sobre mim.
 
 ➡ Link para o meu Linkedin: https://www.linkedin.com/in/leticiafrnc/
 
+➡ Link para o meu Behance https://www.behance.net/leticiafranco5
+
 Obrigada por estar aqui. 😊
