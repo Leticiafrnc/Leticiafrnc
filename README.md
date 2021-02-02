@@ -2,10 +2,6 @@
 
 Aqui estão algumas informações sobre mim.
 
-➡ Link para meu Instagram: https://www.instagram.com/_leticiafrnc/ 
-
-➡ Link para o meu Linkedin: https://www.linkedin.com/in/leticiafrnc/
-
-➡ Link para o meu Behance https://www.behance.net/leticiafranco5
-
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leticiafrnc//) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_leticiafrnc/) 
+  
 Obrigada por estar aqui. 😊
