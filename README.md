@@ -8,4 +8,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiafrnc)](https://github.com/leticiafrnc/github-readme-stats) 
   
-Obrigada por estar aqui. 😊
