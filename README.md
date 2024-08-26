@@ -1,4 +1,4 @@
-👋 Olá, eu me chamo Letícia. Sou formada em Tecnologia e Sistemas Para Internet e analista de Suporte. Com esse perfil quero apresentar minhas habilidades em Desenvolvimento Full Stack.
+👋 Olá, eu me chamo Letícia. Sou formada em Tecnologia e Sistemas Para Internet e Analista de Suporte. Com esse perfil quero apresentar minhas habilidades em Desenvolvimento Full Stack.
 
 
 
